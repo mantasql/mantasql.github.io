@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debesų kompiuterijos 4 laboratorinis</title>
+    <link>http://mantasql.github.io/</link>
+    <description>Recent content on Debesų kompiuterijos 4 laboratorinis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Dec 2022 17:47:06 +0200</lastBuildDate><atom:link href="http://mantasql.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TestPage</title>
+      <link>http://mantasql.github.io/posts/testpage/</link>
+      <pubDate>Sat, 10 Dec 2022 17:47:06 +0200</pubDate>
+      
+      <guid>http://mantasql.github.io/posts/testpage/</guid>
+      <description>Čia yra debesų kompiterijos 4 laboratorinis.</description>
+      <content>&lt;p&gt;Čia yra debesų kompiterijos 4 laboratorinis.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
