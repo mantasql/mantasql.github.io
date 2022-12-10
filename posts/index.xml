@@ -2,24 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Debesų kompiuterijos 4 laboratorinis</title>
+    
+    
+    
     <link>http://mantasql.github.io/posts/</link>
     <description>Recent content in Posts on Debesų kompiuterijos 4 laboratorinis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Dec 2022 18:02:35 +0200</lastBuildDate><atom:link href="http://mantasql.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 18:02:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://mantasql.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Darviens</title>
       <link>http://mantasql.github.io/posts/darviens/</link>
       <pubDate>Sat, 10 Dec 2022 18:02:35 +0200</pubDate>
       
       <guid>http://mantasql.github.io/posts/darviens/</guid>
-      <description>&amp;lt;image src=&amp;#34;/image.jpg&amp;#34; alt=&amp;#34;Gorilla&amp;#34; position=&amp;#34;center&amp;#34; style=&amp;#34;border-radius: 8px;&amp;#34;&amp;gt; </description>
-      <content>
-  &lt;img src=&#34;http://mantasql.github.io/image.jpg&#34;  alt=&#34;Gorilla&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
-
-
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;src&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/image.jpg&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;alt&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Gorilla&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;position&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;center&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;style&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;border-radius: 8px;&amp;#34;&lt;/span&gt;&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &amp;lt;image src=&amp;#34;/image.jpg&amp;#34; alt=&amp;#34;Gorilla&amp;#34; position=&amp;#34;center&amp;#34; style=&amp;#34;border-radius: 8px;&amp;#34;&amp;gt; 
+          
+        
+        </description>
     </item>
     
     <item>
@@ -28,9 +40,18 @@
       <pubDate>Sat, 10 Dec 2022 17:47:06 +0200</pubDate>
       
       <guid>http://mantasql.github.io/posts/testpage/</guid>
-      <description>Čia yra debesų kompiterijos 4 laboratorinis.</description>
-      <content>&lt;p&gt;Čia yra debesų kompiterijos 4 laboratorinis.&lt;/p&gt;
-</content>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Čia yra debesų kompiterijos 4 laboratorinis.
+          
+        
+        </description>
     </item>
     
   </channel>
